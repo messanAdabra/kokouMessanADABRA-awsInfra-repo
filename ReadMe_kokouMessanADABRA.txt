@@ -1,7 +1,7 @@
 
-# AWS CloudFormation Template: S3-Triggered Lambda with DynamoDB & EC2 Setup
+######## AWS CloudFormation Template: S3-Triggered Lambda with DynamoDB & EC2 Setup ##########
 
-**Description
+# Description
 
 Ce template AWS CloudFormation crée une architecture complète pour traiter automatiquement les fichiers déposés dans un bucket S3 et stocker les metadonnées dns une Base DynmoDB:
 
